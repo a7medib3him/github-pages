@@ -1,4 +1,41 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Esraa Website</title>
+  <link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h1>Welcome to Esraa's Website</h1>
+  <p>University of Nineveh</p>
+  <p>College of Information Technology</p>
+  <p>Department of Computer Networks and Internet</p>
+
+<nav>
+  <a href="about.html">About Me</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+  <hr>
+
+  <h2>My Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Basic Web Design</li>
+  </ul>
+
+<img src="7C4A2503-4F3E-4B86-BEED-8603FD6E9FF4.jpeg" alt="Esraa's photo" width="300">
+
+  <footer>
+  <p>&copy; 2025 Esraa Ziad's Profile</p>
+  </footer>
+</body>
+</html>
+<div class="container">
+  <!-- all your content goes here -->
+</div>
 
 <!--
   <<< Author notes: Course header >>>
